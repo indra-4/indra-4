@@ -2,11 +2,11 @@
  
 Perkenalkan nama saya **Rama Aditya Indra Pratama**.<br>
  
-Saya seorang **Mahasiswa** di [POLINDRA](polindra.ac.id).<br>
-  
+Saya seorang **Mahasiswa** di [Politeknik Negeri Indramayu](polindra.ac.id).<br>
+
 Saya juga memiliki AI Dicoding sejak 2026 .<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/rama-aditya-indra-pratama-18a114305/))ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rama-aditya-indra-pratama-18a114305/)ku ya.
  
 ### Github Statistic
 <p align="left">
